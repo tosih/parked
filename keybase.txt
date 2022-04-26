@@ -1,0 +1,54 @@
+https://keybase.io/tosih
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tosih.org
+  * I am tosih (https://keybase.io/tosih) on keybase.
+  * I have a public key ASCp0XROqM5v8d7OPg6uwshjoJB_GHPkTkg5OqyC4km5yAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204f47635e644327ea781737073c1d64605b29d700fe39fe23365dc4c89b1f7db80a",
+      "host": "keybase.io",
+      "kid": "0120a9d1744ea8ce6ff1dece3e0eaec2c863a0907f1873e44e48393aac82e249b9c80a",
+      "uid": "bff5d717fa5f238387cf948aa0dce319",
+      "username": "tosih"
+    },
+    "merkle_root": {
+      "ctime": 1551917400,
+      "hash": "86b281ae3a8f16b3aa8978f6de20afb1c20f7d7d8fe34cebbb1ebda11fc639a733836121079e27a76e65a9d1ac24f50f7e4fa1383c1bc96f53d367631d33304e",
+      "hash_meta": "4639ec08387e1d0866d2e405d60a34dc5f9170be1f4e2dd210b8811092f7668f",
+      "seqno": 4891226
+    },
+    "service": {
+      "entropy": "nNbXx3Bg9C0mWR9Hwnrj8jGA",
+      "hostname": "tosih.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551917440,
+  "expire_in": 504576000,
+  "prev": "4891d5c6b20169a38356ed0f6ed6d7c478c6ca2fac3ccbccabba98d66e673246",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqdF0TqjOb/Hezj4OrsLIY6CQfxhz5E5IOTqsguJJucgKp3BheWxvYWTESpcCNcQgSJHVxrIBaaODVu0PbtbXxHjGyi+sPMvMq7qY1m5nMkbEIM6WrYgkmRe1QcDP8ZvuIyb8lWpyz56sF4Qow8P9ZJWgAgHCo3NpZ8RAGiNUeSZ8/LTryMqY0dhV36vyklsXVH2L9pANUtQ8l/k9PXYkpoaIQiPJSfoV7JyzVZm80cofxrCjLhiqek6fBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAN3s+5eHLEY7xd9ANOJemmq0zGcnseXBmFKvnkYUp+vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tosih
+
